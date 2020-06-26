@@ -1,0 +1,16 @@
+[
+{
+  "modid": "showitem",
+  "name": "ShowItem",
+  "description": "Send a message to show item",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["htsnmiku39"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
